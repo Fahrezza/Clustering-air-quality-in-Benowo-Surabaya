@@ -1,0 +1,4 @@
+klaster,PM2.5 (ug/m3),PM10 (ug/m3),CO2 (ppm),Temperature (Celsius),Humidity (%),n,persen
+Klaster 1,30.8,56.1,411.7,31.8,68.2,7185,33.6
+Klaster 2,32.0,60.5,430.7,27.6,85.4,9913,46.4
+Klaster 3,81.4,153.1,456.5,27.8,84.8,4284,20.0
