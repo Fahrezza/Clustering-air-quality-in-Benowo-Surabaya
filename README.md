@@ -65,7 +65,6 @@ Keluaran (gambar PNG dan tabel CSV) disimpan di folder `hasil_clustering/`.
 ├── README.md
 ├── requirements.txt
 ├── clustering_kualitas_udara_benowo_2025.py   # seluruh analisis
-├── Laporan_Clustering_Kualitas_Udara_Benowo_2025.docx
 └── hasil_clustering/                          # gambar dan tabel hasil
 ```
 
